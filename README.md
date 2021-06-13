@@ -1,4 +1,4 @@
-# Imunização
+# Imunização BCG
 <img src="/docs/imunizacao01.png" alt="Imagem Principal" vertical-align: middle/></img>
 As pessoas perguntam:
 ## O que significa cobertura vacinal?
