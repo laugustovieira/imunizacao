@@ -1,4 +1,5 @@
 # Imunização
+<img src="/docs/imunizacao01.png" alt="Imagem Principal" vertical-align: middle/></img>
 As pessoas perguntam:
 ## O que significa cobertura vacinal?
 Este é constituído pelo número de doses aplicadas (correspondente ao esquema completo de vacinação) de determinado imunobiológico 
