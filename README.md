@@ -41,3 +41,9 @@ Para a realização do projeto, será considerado o seguinte planejamento :
 2. Preparação dos Dados
 3. Análise Exploratória dos Dados
 4. Conclusão
+
+# Conclusão
+Existe realmente uma queda na cobertura vacinal para BCG em todo o país, assim como foi analisado.
+Segundo o ministério da saúde, devido a pandemia do Corona vírus houve uma queda na cobertura vacinal. Esta queda nas coberturas desafia o Programa Nacional de Imunizações do Sistema Único de Saúde, considerado um dos mais amplos e bem sucedidos do mundo. O programa teve um aumento expressivo nas taxas de vacinação entre 1980 e 1995, ano a partir do qual as taxas ficaram estáveis em patamares elevados, e, em alguns casos, superiores a 100%. O recuo teve início em 2015, e, antes da pandemia, já pesavam fatores como horários de funcionamento das unidades de saúde, a circulação de informações falsas sobre a segurança das vacinas e até mesmo a impressão de que as doenças imunopreveníveis já deixaram de existir.
+
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/em-queda-ha-5-anos-coberturas-vacinais-preocupam-ministerio-da-saude
